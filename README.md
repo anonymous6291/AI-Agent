@@ -40,7 +40,7 @@ A secure AI-powered agent that runs locally using **llama.cpp** and executes sys
 
 * Windows
 * Linux / Unix
-* Max
+* Mac
 
 ---
 
