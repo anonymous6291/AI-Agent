@@ -1,5 +1,5 @@
-target/
 !target/AI_Agent-1.0-SNAPSHOT.jar
+target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
