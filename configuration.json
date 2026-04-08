@@ -1,0 +1,23 @@
+{
+  "logger": {
+    "file": false,
+    "file_name": "log.txt"
+  },
+  "model": {
+    "model_url": "http://127.0.0.1:9000/v1/chat/completions",
+    "model_name": "Qwen2.5-3B",
+    "temperature": 0.2,
+    "max_tokens": 2048,
+    "stream": false,
+    "stop": [
+      "OBSERVATION:"
+    ]
+  },
+  "authorization": {
+    "password": "WWW",
+    "expiry_time": "-1"
+  },
+  "telegram": {
+    "bot_token_file": "bot_token.txt"
+  }
+}
