@@ -94,23 +94,25 @@ Download a compatible GGUF model and place it in the appropriate directory.
 
 ### 3. Configure the Agent via configuration.json
 
-- Set your password/auth configuration
-- Configure model path, etc
+- Set your password/auth configuration.
+- Configure model path, etc.
 
----
-
-### 4. Run the Agent
-
-```bash
-java -jar ./target/AI_Agent-1.0-SNAPSHOT.jar
-```
+### 4. Setting up Telegram bot token
+- Make file bot_token.txt and store Telegram bot token inside it.
 
 ---
 
 ## 📖 Usage
 
-### Example Commands
+### 1. Run the Agent
+```bash
+java -jar ./target/AI_Agent-1.0-SNAPSHOT.jar
+```
 
+### 2. Connect to the Telegram bot and enter the password.
+
+### 3. Your bot is now ready to accept commands.
+#### Example
 ```
 User: Send me file test.txt
 Agent: [Finds file → Sends output]
