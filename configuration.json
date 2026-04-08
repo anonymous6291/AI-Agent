@@ -14,7 +14,7 @@
     ]
   },
   "authorization": {
-    "password": "WWW",
+    "password": "password",
     "expiry_time": "-1"
   },
   "telegram": {
