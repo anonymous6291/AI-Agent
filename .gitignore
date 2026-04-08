@@ -1,5 +1,10 @@
-!target/AI_Agent-1.0-SNAPSHOT.jar
-target/
+target/classes/
+target/generated-sources/
+target/generated-test-sources/
+target/maven-archiver/
+target/maven-status/
+target/test-classes
+target/original-AI_Agent-1.0-SNAPSHOT.jar
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
