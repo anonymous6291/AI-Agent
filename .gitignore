@@ -12,6 +12,7 @@ target/original-AI_Agent-1.0-SNAPSHOT.jar
 bot_token.txt
 request.json
 response.json
+configuration.json
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
