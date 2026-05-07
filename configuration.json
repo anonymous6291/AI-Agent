@@ -1,6 +1,6 @@
 {
   "logger": {
-    "file": false,
+    "file": true,
     "file_name": "log.txt"
   },
   "model": {
