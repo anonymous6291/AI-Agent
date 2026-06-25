@@ -65,6 +65,7 @@ Response / File Output
 ## 🛠️ Tech Stack
 
 - **LLM Runtime:** llama.cpp
+- **Model:** Qwen2.5-Coder-3B-Instruct-Q8_0
 - **Language:** Java
 - **Execution Environment:** Local System
 - **Security:** Custom authentication & blocking mechanism
